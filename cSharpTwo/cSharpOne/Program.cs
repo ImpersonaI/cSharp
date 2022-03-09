@@ -32,9 +32,10 @@ namespace SharpTwo
                     maxM = arrayM[i];
                 }
 
-                Console.Write("max1 =" + maxN + " max2 =" + maxM + "; ");
+               //Console.Write("max1 =" + maxN + " max2 =" + maxM + "; ");
             }
-            Thread.Sleep(m*n*100);
+            Thread.Sleep(5000);
+            Console.WriteLine();
             Console.WriteLine("TakeAwhile ended");
             return 0;
         }
@@ -48,9 +49,12 @@ namespace SharpTwo
             IAsyncResult ar = d1.BeginInvoke(4, 6, null, null);
             while (!ar.IsCompleted)
             {
-                
-                Console.Write(" ");
-                Thread.Sleep(50);
+                Console.Write(".");
+                if (ar.AsyncWaitHandle.WaitOne(500, false))
+                {
+                    
+                    break;
+                }
             }
             int result = d1.EndInvoke(ar);
             //Console.WriteLine("result: {0}", result);

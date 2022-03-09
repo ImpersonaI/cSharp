@@ -1,0 +1,14 @@
+C:\Users\Roman Perets\source\repos\cSharpOne\cSharpOne\obj\Debug\cSharpOne.csproj.AssemblyReference.cache
+C:\Users\Roman Perets\source\repos\cSharpOne\cSharpOne\obj\Debug\cSharpOne.csproj.CoreCompileInputs.cache
+C:\Users\Roman Perets\source\repos\cSharpOne\cSharpOne\bin\Debug\cSharpOne.exe.config
+C:\Users\Roman Perets\source\repos\cSharpOne\cSharpOne\bin\Debug\cSharpOne.exe
+C:\Users\Roman Perets\source\repos\cSharpOne\cSharpOne\bin\Debug\cSharpOne.pdb
+C:\Users\Roman Perets\source\repos\cSharpOne\cSharpOne\obj\Debug\cSharpOne.exe
+C:\Users\Roman Perets\source\repos\cSharpOne\cSharpOne\obj\Debug\cSharpOne.pdb
+C:\Users\Roman Perets\source\repos\cSharpTwo\cSharpOne\bin\Debug\cSharpOne.exe.config
+C:\Users\Roman Perets\source\repos\cSharpTwo\cSharpOne\bin\Debug\cSharpOne.exe
+C:\Users\Roman Perets\source\repos\cSharpTwo\cSharpOne\bin\Debug\cSharpOne.pdb
+C:\Users\Roman Perets\source\repos\cSharpTwo\cSharpOne\obj\Debug\cSharpOne.csproj.AssemblyReference.cache
+C:\Users\Roman Perets\source\repos\cSharpTwo\cSharpOne\obj\Debug\cSharpOne.csproj.CoreCompileInputs.cache
+C:\Users\Roman Perets\source\repos\cSharpTwo\cSharpOne\obj\Debug\cSharpOne.exe
+C:\Users\Roman Perets\source\repos\cSharpTwo\cSharpOne\obj\Debug\cSharpOne.pdb

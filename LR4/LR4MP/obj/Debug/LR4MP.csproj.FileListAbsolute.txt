@@ -1,0 +1,14 @@
+C:\Users\Никита\source\repos\LR4MP\LR4MP\bin\Debug\LR4MP.exe.config
+C:\Users\Никита\source\repos\LR4MP\LR4MP\bin\Debug\LR4MP.exe
+C:\Users\Никита\source\repos\LR4MP\LR4MP\bin\Debug\LR4MP.pdb
+C:\Users\Никита\source\repos\LR4MP\LR4MP\obj\Debug\LR4MP.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\LR4MP\LR4MP\obj\Debug\LR4MP.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\LR4MP\LR4MP\obj\Debug\LR4MP.exe
+C:\Users\Никита\source\repos\LR4MP\LR4MP\obj\Debug\LR4MP.pdb
+C:\Users\Roman Perets\Desktop\Учеба\8 семестр\Введение в технологии высокопроизводительных вычислений\Высокопроизводительные вычисления\Высокопроизводительные вычисления\LR4MP\LR4MP\bin\Debug\LR4MP.exe.config
+C:\Users\Roman Perets\Desktop\Учеба\8 семестр\Введение в технологии высокопроизводительных вычислений\Высокопроизводительные вычисления\Высокопроизводительные вычисления\LR4MP\LR4MP\bin\Debug\LR4MP.exe
+C:\Users\Roman Perets\Desktop\Учеба\8 семестр\Введение в технологии высокопроизводительных вычислений\Высокопроизводительные вычисления\Высокопроизводительные вычисления\LR4MP\LR4MP\bin\Debug\LR4MP.pdb
+C:\Users\Roman Perets\Desktop\Учеба\8 семестр\Введение в технологии высокопроизводительных вычислений\Высокопроизводительные вычисления\Высокопроизводительные вычисления\LR4MP\LR4MP\obj\Debug\LR4MP.csproj.AssemblyReference.cache
+C:\Users\Roman Perets\Desktop\Учеба\8 семестр\Введение в технологии высокопроизводительных вычислений\Высокопроизводительные вычисления\Высокопроизводительные вычисления\LR4MP\LR4MP\obj\Debug\LR4MP.csproj.CoreCompileInputs.cache
+C:\Users\Roman Perets\Desktop\Учеба\8 семестр\Введение в технологии высокопроизводительных вычислений\Высокопроизводительные вычисления\Высокопроизводительные вычисления\LR4MP\LR4MP\obj\Debug\LR4MP.exe
+C:\Users\Roman Perets\Desktop\Учеба\8 семестр\Введение в технологии высокопроизводительных вычислений\Высокопроизводительные вычисления\Высокопроизводительные вычисления\LR4MP\LR4MP\obj\Debug\LR4MP.pdb

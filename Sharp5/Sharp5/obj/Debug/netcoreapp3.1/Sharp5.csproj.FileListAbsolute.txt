@@ -1,0 +1,14 @@
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\obj\Debug\netcoreapp3.1\Sharp5.csproj.AssemblyReference.cache
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\obj\Debug\netcoreapp3.1\Sharp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\obj\Debug\netcoreapp3.1\Sharp5.AssemblyInfoInputs.cache
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\obj\Debug\netcoreapp3.1\Sharp5.AssemblyInfo.cs
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\obj\Debug\netcoreapp3.1\Sharp5.csproj.CoreCompileInputs.cache
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\bin\Debug\netcoreapp3.1\Sharp5.exe
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\bin\Debug\netcoreapp3.1\Sharp5.deps.json
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\bin\Debug\netcoreapp3.1\Sharp5.runtimeconfig.json
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\bin\Debug\netcoreapp3.1\Sharp5.runtimeconfig.dev.json
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\bin\Debug\netcoreapp3.1\Sharp5.dll
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\bin\Debug\netcoreapp3.1\Sharp5.pdb
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\obj\Debug\netcoreapp3.1\Sharp5.dll
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\obj\Debug\netcoreapp3.1\Sharp5.pdb
+C:\Users\Roman Perets\source\repos\Sharp5\Sharp5\obj\Debug\netcoreapp3.1\Sharp5.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\bin\Debug\netcoreapp3.1\Sharp7.exe
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\bin\Debug\netcoreapp3.1\Sharp7.deps.json
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\bin\Debug\netcoreapp3.1\Sharp7.runtimeconfig.json
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\bin\Debug\netcoreapp3.1\Sharp7.runtimeconfig.dev.json
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\bin\Debug\netcoreapp3.1\Sharp7.dll
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\bin\Debug\netcoreapp3.1\Sharp7.pdb
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\obj\Debug\netcoreapp3.1\Sharp7.csproj.AssemblyReference.cache
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\obj\Debug\netcoreapp3.1\Sharp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\obj\Debug\netcoreapp3.1\Sharp7.AssemblyInfoInputs.cache
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\obj\Debug\netcoreapp3.1\Sharp7.AssemblyInfo.cs
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\obj\Debug\netcoreapp3.1\Sharp7.csproj.CoreCompileInputs.cache
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\obj\Debug\netcoreapp3.1\Sharp7.dll
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\obj\Debug\netcoreapp3.1\Sharp7.pdb
+C:\Users\Roman Perets\source\repos\Sharp7\Sharp7\obj\Debug\netcoreapp3.1\Sharp7.genruntimeconfig.cache
